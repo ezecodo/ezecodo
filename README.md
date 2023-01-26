@@ -6,9 +6,19 @@ i hope you have fun with my projects i´ll share with you, looking forward to wo
 🌱 I’m currently learning a lot of Programming Stuff.
 👯 I’m looking to collaborate on artistic programming projects. 
 
+Learning these Skills:
+
+CSS
+HTML
+FLEXBOX
+POSITIONING
+GITUHB
+GIT
+
+
 see you in the codeline ;-)
 
-
+![pictureprofile](https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
 <!--
 **ezecodo/ezecodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
