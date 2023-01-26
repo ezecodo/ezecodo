@@ -1,6 +1,12 @@
-### Hi there here is Ezequiel (he/him), welcome to my GIT-Hub Profile, i hope you have fun with my projects i´ll share with you, looking forward to work together with you.👋
+### Hi there,here is Ezequiel (he/him), welcome to my GIT-Hub Profile, 
 
-🌱 I’m currently learning a lot of Programming Stuff, 
+
+i hope you have fun with my projects i´ll share with you, looking forward to work together with you.👋
+
+🌱 I’m currently learning a lot of Programming Stuff.
+👯 I’m looking to collaborate on artistic programming projects. 
+
+see you in the codeline ;-)
 
 <!--
 **ezecodo/ezecodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
