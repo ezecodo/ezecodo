@@ -8,12 +8,12 @@ i hope you have fun with my projects i´ll share with you, looking forward to wo
 
 Learning these Skills:
 
-CSS
-HTML
-FLEXBOX
-POSITIONING
-GITUHB
-GIT
+* CSS
+* HTML
+* FLEXBOX
+* POSITIONING
+* GITUHB
+* GIT
 
 
 see you in the codeline ;-)
