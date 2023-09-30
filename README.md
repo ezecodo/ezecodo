@@ -12,6 +12,9 @@ Learning these Skills:
 * HTML
 * FLEXBOX
 * POSITIONING
+* JAVA SCRIPT
+* PYTHON
+* DJANGO
 * GITUHB
 * GIT
 
