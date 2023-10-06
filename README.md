@@ -1,25 +1,25 @@
-### Hi there,here is Ezequiel (he/him), welcome to my GIT-Hub Profile, 
+# Hola! 👋
 
+I'm **Ezequiel** (he/him). Welcome to my GitHub profile.
 
-i hope you have fun with my projects i´ll share with you, looking forward to work together with you.👋
+I hope you enjoy exploring the projects I share here. I'm always excited about potential collaborations, especially in artistic programming endeavors.
 
-🌱 I’m currently learning a lot of Programming Stuff.
-👯 I’m looking to collaborate on artistic programming projects. 
+## 🌱 Currently Learning:
+- **CSS**
+- **HTML**
+- **Flexbox**
+- **Positioning**
+- **JavaScript**
+- **Python**
+- **Django**
+- **GitHub**
+- **Git**
 
-Learning these Skills:
+## 🌍 My Goal
+I aim to apply programming to solve societal issues. I'm particularly keen on assisting NGOs that lack the resources for a digital presence. If you're an organization in need, or know one that could benefit from digital solutions, please feel free to reach out.
 
-* CSS
-* HTML
-* FLEXBOX
-* POSITIONING
-* JAVA SCRIPT
-* PYTHON
-* DJANGO
-* GITUHB
-* GIT
+Looking forward to seeing you in the code and making a difference together! 😉
 
-
-see you in the codeline ;-)
 
 ![pictureprofile](https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
 <!--
