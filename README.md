@@ -10,6 +10,8 @@ I hope you enjoy exploring the projects I share here. I'm always excited about p
 - **Flexbox**
 - **Positioning**
 - **JavaScript**
+- **React**
+- **Next.js**
 - **Python**
 - **Django**
 - **GitHub**
