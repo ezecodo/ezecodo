@@ -6,10 +6,11 @@ I'm a programmer passionate about creating impactful solutions for NGOs and soci
 
 Feel free to explore my projects and reach out if you'd like to connect or work together!
 
-## 🌱 Currently Learning:
+## 🌱 
+- **vServer**
+- **NAS**
 - **CSS**
 - **HTML**
-- **Flexbox**
 - **Positioning**
 - **JavaScript**
 - **React**
