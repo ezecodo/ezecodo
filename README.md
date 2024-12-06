@@ -2,9 +2,7 @@
 
 I'm **Ezequiel** (he/him). Welcome to my GitHub profile.
 
-I'm a programmer passionate about creating impactful solutions for NGOs and social projects. My work often combines technology and creativity, aiming to empower organizations and drive positive change. I’m always open to collaborations that align with these values.
 
-Feel free to explore my projects and reach out if you'd like to connect or work together!
 
 ## 🌱 
 - **vServer**
